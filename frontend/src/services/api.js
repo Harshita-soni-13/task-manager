@@ -2,7 +2,7 @@ import axios from "axios";
 
 const API = axios.create({
   // baseURL: "http://localhost:5000/api"         // local url 
-   baseURL: "https://task-manager-backend-x0k3.onrender.com"     //render url
+   baseURL: "https://task-manager-backend-x0k3.onrender.com/api"     //render url
 });
 
 // Auto attach token
