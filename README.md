@@ -5,18 +5,18 @@ A full-stack task management application with user authentication and CRUD opera
 ## Technologies Used
 
 ### Backend
-- **Node.js**: JavaScript runtime for server-side development
-- **Express.js**: Web framework for building REST APIs
-- **MongoDB**: NoSQL database for data storage
-- **Mongoose**: ODM for MongoDB
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
 - **JWT (jsonwebtoken)**: For user authentication and authorization
 - **bcryptjs**: For password hashing
 - **CORS**: For handling cross-origin requests
 - **dotenv**: For environment variable management
 
 ### Frontend
-- **React**: JavaScript library for building user interfaces
-- **Vite**: Build tool and development server
+- React
+- Vite
 - **Tailwind CSS**: Utility-first CSS framework
 - **Axios**: HTTP client for API requests
 - **React Router DOM**: For client-side routing
@@ -26,7 +26,7 @@ A full-stack task management application with user authentication and CRUD opera
 ### Prerequisites
 - Node.js (v14 or higher)
 - MongoDB (local or cloud instance like MongoDB Atlas)
-- npm or yarn
+- npm 
 
 ### Backend Setup
 1. Navigate to the backend directory:
